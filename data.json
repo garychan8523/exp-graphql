@@ -1,0 +1,34 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "jdoe@dedd.ca",
+      "age": 35
+    },
+    {
+      "id": "2",
+      "name": "keith",
+      "email": "keith@dedd.ca",
+      "age": 50
+    },
+    {
+      "id": "3",
+      "name": "tom",
+      "email": "tom@dedd.ca",
+      "age": 23
+    },
+    {
+      "id": "5",
+      "name": "jen",
+      "email": "jen@dedd.ca",
+      "age": 32
+    },
+    {
+      "name": "harry",
+      "email": "harry@dedd.ca",
+      "age": 12,
+      "id": "X6QGh8F"
+    }
+  ]
+}
